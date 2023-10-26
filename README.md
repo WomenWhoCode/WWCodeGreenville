@@ -66,9 +66,11 @@ There are two ways to use git to interact with our repository: command-line Git 
 2. Desktop Git App: Another way that users can interact with our repository is through a desktop app like Github's own [Desktop App](https://desktop.github.com/), which has simple UI and can be intuitive for first time users.
 
 <!-- Getting Started -->
-## Getting started
 <span id="gettingstarted">![GettingStarted][getting-started-heading]</span>
+
+
 To learn how to contribute to this project, please see the [getting started guide](./GettingStarted.md).
+
 
 <!-- ROADMAP -->
 <span id='roadmap'>![Roadmap][roadmap-heading]</span>
