@@ -1,5 +1,5 @@
 # Women Who Code Greenville YouTube Videos:
-*You can find a list of all of WWCodes videos [here](https://www.youtube.com/@WomenWhoCode/) on our YouTube channel. Don't forget to subscribe for future updates.*
+*You can find a list of all of WWCodes videos [here](https://www.youtube.com/playlist?list=PLVcEZG2JPVhclL1RUkH6Dt0nE3CXFcXpj) on our YouTube channel. Don't forget to subscribe for future updates.*
 
 
 ## 🎥 Videos
