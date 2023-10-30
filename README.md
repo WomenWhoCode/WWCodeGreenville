@@ -10,12 +10,12 @@
 
 <!-- TABLE OF CONTENTS -->
 ![Table of Contents][table-of-contents-heading]
-  
 
 * [About This Project](#about-this-project)
 * [Hacktoberfest 2023](#hacktoberfest)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
+  * [PR Template](#pr-template)
 * [Roadmap](#roadmap)
 * [Code of Conduct](#contributing)
 * [Roadmap](#code-of-conduct)
@@ -65,6 +65,7 @@ There are two ways to use git to interact with our repository: command-line Git 
 2. Desktop Git App: Another way that users can interact with our repository is through a desktop app like Github's own [Desktop App](https://desktop.github.com/), which has simple UI and can be intuitive for first time users.
 
 <!-- MAKING A PULL REQUEST TEMPLATE -->
+<span id='pr-template'>![PR Template][pr-template-heading]</span>
 <!-- *(be sure to tag a team member directly in PR by adding an assignee) -->
 
 ## Description
@@ -138,6 +139,8 @@ Project Link: [https://github.com/WomenWhoCode/WWCodeGreenville](https://github.
 - [WWCode Greenville Instagram](https://www.instagram.com/wwcodegville/)
 
 - [WWCode Greenville Notion](https://wwcode.notion.site/Women-Who-Code-Greenville-02e4990c6f814dccb92cf24da404b4b8)
+
+- [WWCode Greenville Online Event Recordings](../WWCodeGreenville/WWCode_Event_Recordings/EventRecordings.md)
 
 <!-- ACKNOWLEDGEMENTS -->
 <span id='acknowledgements'>![Acknowledgements][acknowledgements-heading]</span>
