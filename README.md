@@ -64,6 +64,32 @@ There are two ways to use git to interact with our repository: command-line Git 
 1. Git Command Line: There are many free tutorials that can walk you through the commands.  [FreeCodeCamp](https://www.freecodecamp.org/news/git-and-github-for-beginners/) has a great beginner tutorial.
 2. Desktop Git App: Another way that users can interact with our repository is through a desktop app like Github's own [Desktop App](https://desktop.github.com/), which has simple UI and can be intuitive for first time users.
 
+<!-- MAKING A PULL REQUEST TEMPLATE -->
+<!-- *(be sure to tag a team member directly in PR by adding an assignee) -->
+
+## Description
+* The purpose of this PR is to
+* The suggested this change that solves the issue of
+* I am requesting the following feedback from
+
+### Type of Change
+<!-- (What changed, and link to any tickets or additional context) -->
+
+### How Has This Been Tested?
+
+### Documentation Updates (Y/N)
+<!-- 
+### Screenshots (If Applicable)
+<p>Screenshot 1</p>
+<img src="#" alt="your alt description goes here" width="55%" height="40%">
+
+<p>Screenshot 2</p>
+<img src="#" alt="your alt description goes here" width="55%" height="40%">
+
+<p>Screenshot 3</p>
+<img src="#" alt="your alt description goes here" width="55%" height="40%">
+-->
+
 <!-- ROADMAP -->
 <span id='roadmap'>![Roadmap][roadmap-heading]</span>
 
