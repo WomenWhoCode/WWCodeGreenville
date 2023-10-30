@@ -15,6 +15,7 @@
 * [Hacktoberfest 2023](#hacktoberfest)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
+* [Getting Started](#getting-started)
 * [Roadmap](#roadmap)
 * [Code of Conduct](#contributing)
 * [Roadmap](#code-of-conduct)
@@ -35,6 +36,7 @@ Why contribute to this repo?
 If there are any questions, please let us know 😁
 
 <!-- Hacktoberfest 23 -->
+
 <span id="hacktoberfest">![Hacktoberfest][hacktoberfest-heading]</span>
 
 - 🍴 To get started, [fork this repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
@@ -133,6 +135,7 @@ Project Link: [https://github.com/WomenWhoCode/WWCodeGreenville](https://github.
 [hacktoberfest-heading]: assets/readme/hacktoberfest.svg
 [prerequisites-heading]: assets/readme/prerequisites.svg
 [installation-heading]: assets/readme/installation.svg
+[getting-started-heading]: assets/readme/gettingstarted.svg
 [code-of-conduct-heading]: assets/readme/code_of_conduct.svg
 [roadmap-heading]: assets/readme/roadmap.svg
 [contributing-heading]: assets/readme/contributing.svg
