@@ -3,7 +3,7 @@ name: Run Newman as a GitHub Action
 
 # How is this action triggered?
 on:
-  schedule: #Run on a schedule
+  schedule: # Run on a schedule
   - cron: "0 10,16 * * *"
   workflow_dispatch: #Trigger manually
 
@@ -18,14 +18,33 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v1
 
-    # 2. Run Newman with params
+    # 2. Install Newman HTML Reporter
+    - name: Install Newman HTML Reporter
+      run: npm install -g newman-reporter-htmlextra
+
+    # 3. Run Newman with params
     - name: Run Newman
       id: run-newman
       uses: anthonyvscode/newman-action@v1
       with:
         collection: HackGreenvilleEventsAPITestSuite/EventsAPI.json
-        reporters: cli
+        reporters: cli, html
 
-    # 3. View Test Results in Console
+    # 4. View Test Results in Console
     - name: Output summary to console
       run: echo ${{ steps.run-newman.outputs.summary_full }} #summary_full is important!
+    
+    # 5. View results in HTML
+    - name: View results in HTML
+      run: newman run HackGreenvilleEventsAPITestSuite/EventsAPI.json -r htmlextra --reporter-htmlextra-export wwcgvl-newman.html
+      
+  # 6. Upload results to artifacts
+    - name: Archive code coverage results
+      uses: actions/upload-artifact@v3
+      with:
+        name: newman-report
+        path: wwcgvl-newman.html
+
+    
+
+
