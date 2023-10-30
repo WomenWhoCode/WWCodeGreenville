@@ -70,7 +70,7 @@ There are two ways to use git to interact with our repository: command-line Git 
 
 ## Description
 * The purpose of this PR is to
-* The suggested this change that solves the issue of
+* The suggested change solves the issue of
 * I am requesting the following feedback from
 
 ### Type of Change
