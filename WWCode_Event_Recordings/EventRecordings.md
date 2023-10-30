@@ -1,6 +1,7 @@
 # Women Who Code Greenville Video Recordings
 | You can find a list of all of WWCodes videos [here](https://www.youtube.com/@WomenWhoCode/) on our YouTube channel.
 
+
 ## 🎥 Videos
 
 - [Lightning Labs](https://youtu.be/amAd06F2fZU?si=cIPnvQAUOh93TvpP)
